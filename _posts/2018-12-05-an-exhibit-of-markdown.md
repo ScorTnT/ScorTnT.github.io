@@ -2,7 +2,7 @@
 layout: post
 title: An exhibit of Markdown
 subtitle: Each post also has a subtitle
-categories: markdown-sample
+categories: -sample
 tags: [example, markdown]
 ---
 

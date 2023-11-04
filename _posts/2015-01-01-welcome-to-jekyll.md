@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Jekyll!
 subtitle: A awesome static site generator.
 author: Jeffrey
-categories: jekyll-sample
+categories: -sample
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
