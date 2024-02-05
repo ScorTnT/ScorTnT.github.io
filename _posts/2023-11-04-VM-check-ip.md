@@ -5,7 +5,8 @@ subtitle: Virtual Machine의 ip 확인
 categories: Linux
 ---
 
-기본적으로 linux에서는 ipconfig 명령어를 사용하여 ip를 확인할 수 없기 때문에 적절한 툴을 설치하여 확인하여야 한다.
+기본적으로 linux에서는 ipconfig 명령어를 사용하여 ip를 확인할 수 없고<br>
+ip address를 통해 ip확인이 가능하고
 
 보통은 net-tools를 설치하여 ifconfig 명령어를 통해 ip를 확인해야 한다.
 
