@@ -6,7 +6,7 @@ categories: Linux
 ---
 
 기본적으로 linux에서는 ipconfig 명령어를 사용하여 ip를 확인할 수 없고<br>
-ip address를 통해 ip확인이 가능하고
+ip address를 통해 ip확인이 가능하며,
 
 보통은 net-tools를 설치하여 ifconfig 명령어를 통해 ip를 확인해야 한다.
 
@@ -17,3 +17,7 @@ ip address를 통해 ip확인이 가능하고
 ![ip_1](/assets/images/posts/VM/VM_ip_1.png)
 
 ifconfig를 이용하면 Linux의 ip를 확인할 수 있으며 빨간 박스로 표시된 부분이 ip값이다.
+
+## Tool
+CentOS7-x86-64-2009.iso<br>
+Oracle VM VirtualBox 7.0.12-r159484<br>
