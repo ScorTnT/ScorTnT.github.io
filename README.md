@@ -1,5 +1,5 @@
 <a href="https://scortnt.github.io">blog</a>
-# git fork를 이용해 jekyll로 웹 제작 연습중에 있습니다. 2023-10-28
+# 2023-10-28~
 # 해당 repo.는 "언제든" 수정되거나 삭제될 수 있습니다.
 
 <div align="center">
