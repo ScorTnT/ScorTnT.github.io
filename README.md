@@ -1,6 +1,5 @@
 <a href="https://scortnt.github.io">blog</a>
 # 2023-10-28~
-# 해당 repo.는 "언제든" 수정되거나 삭제될 수 있습니다.
 
 <div align="center">
   <br>
