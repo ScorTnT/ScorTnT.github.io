@@ -8,6 +8,13 @@ banner:
 categories: Linux
 ---
 
+-------
+2025-05-22 추가<br>
+ip ad 명령어를 통해 확인 가능하다.<br>
+
+-------
+
+
 기본적으로 linux에서는 ipconfig 명령어를 사용하여 ip를 확인할 수 없고<br>
 ip address를 통해 ip확인이 가능하며,
 
