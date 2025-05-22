@@ -2,6 +2,9 @@
 layout: post
 title: Linux's IP
 subtitle: Virtual Machine의 ip 확인
+author: ScorTnT
+banner:
+    image: /assets/images/posts/VM/VM_ip_1.png
 categories: Linux
 ---
 

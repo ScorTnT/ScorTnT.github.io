@@ -2,6 +2,9 @@
 layout: post
 title: VM's network setting
 categories: Linux
+author: ScorTnT
+banner:
+    image: /assets/images/posts/DNS/vm_nat-host-only_1.png
 ---
 
 ## NAT
