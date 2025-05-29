@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: -sample
+categories: z-sample
 author: "Bart Simpson"
 meta: "Springfield"
 ---

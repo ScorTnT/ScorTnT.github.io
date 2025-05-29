@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mermaid example
-categories: -sample
+categories: z-sample
 tags: [mermaid]
 ---
 

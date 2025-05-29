@@ -2,7 +2,7 @@
 layout: post
 title: Table example
 subtitle:
-categories: -sample
+categories: z-sample
 tags: [table]
 ---
 

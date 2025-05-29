@@ -2,7 +2,7 @@
 layout: post
 title: Video example
 subtitle:
-categories: -sample
+categories: z-sample
 tags: [video]
 ---
 
